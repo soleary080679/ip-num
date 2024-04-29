@@ -7,3 +7,4 @@ node_modules
 
 /spec/support/jasmine.json
 spec/InterfacesTest.ts
+/out/production/ip-num/docs/modules/Script.html
